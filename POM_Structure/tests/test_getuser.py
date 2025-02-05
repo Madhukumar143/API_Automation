@@ -1,6 +1,6 @@
 import json
 import pytest
-from POM_Framework.utils.api import APIS
+from POM_Structure.utils.api import APIS
 
 @pytest.fixture(scope="module")
 def common():
